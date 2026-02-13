@@ -415,7 +415,7 @@ function handleFormSubmit(e) {
 function resetForm() {
   document.getElementById('task-form').reset();
   document.getElementById('task-priority').value = 'medium';
-  document.getElementById('submit-btn').textContent = '✨ Add Task';
+  document.getElementById('submit-btn').textContent = ' Add Task';
   document.getElementById('cancel-btn').classList.add('hidden');
   editingTaskId = null;
 }
