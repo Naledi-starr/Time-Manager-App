@@ -1,5 +1,7 @@
 # Time Bestie - Time Manager App
 
+[![Live Demo](https://time-manager-app-ten.vercel.app/)]
+
 A modern, feature-rich personal time tracking application with a beautiful dark-themed UI. Track your daily and weekly tasks, manage priorities, and monitor your productivity with real-time timers.
 
 ![Time Bestie](image1.png)
